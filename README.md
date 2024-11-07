@@ -2,7 +2,7 @@
 Repositório para organização e armazenamento de materiais de oficinas já ministradas.
 
 ## UFAL - SEMAEXC 2024: Assistência na Revisão e Otimização de Textos Acadêmicos com ChatGPT.
-* [[PDF](https://github.com/GustavoHFMO/Oficinas/blob/main/SEMAEXC%202024/SEMAEXC%20-%20ASSIST%C3%8ANCIA%20NA%20REVIS%C3%83O%20E%20OTIMIZA%C3%87%C3%83O%20DE%20TEXTOS%20ACAD%C3%8AMICOS%20COM%20CHATGPT.pptx)] - Slides
+* [[PDF](https://github.com/GustavoHFMO/Oficinas/blob/main/SEMAEXC%202024/SEMAEXC%20-%20ASSIST%C3%8ANCIA%20NA%20REVIS%C3%83O%20E%20OTIMIZA%C3%87%C3%83O%20DE%20TEXTOS%20ACAD%C3%8AMICOS%20COM%20CHATGPT.pdf)] - Slides
 
 ## UFAL - SEMPRO 2024: Automação de Relatórios com ChatGPT e Python.
 * [[Jupyter Notebook](https://github.com/GustavoHFMO/Oficinas/blob/main/SEMPRO%202024/Oficina%20-%20Automa%C3%A7%C3%A3o%20de%20relat%C3%B3rios%20com%20python.ipynb)] - Códigos
